@@ -1,3 +1,4 @@
 <?php
-echo("my name is adebayo abiodun");
+$my_name= "<h2> Adebayo Abodun>";
+echo $my_name;
 ?>
